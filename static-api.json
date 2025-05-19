@@ -1,1 +1,52 @@
-
+[
+  {
+    "nama": "batagor",
+    "harga": "5ribu",
+    "imageId": "batagor"
+  },
+  {
+    "nama": "gudeg",
+    "harga": "25Ribu",
+    "imageId": "gudeg"
+  },
+  {
+    "nama": "mie goreng",
+    "harga": "30Ribu",
+    "imageId": "miegoreng"
+  },
+  {
+    "nama": "nasi goreng",
+    "harga": "20Ribu",
+    "imageId": "nasigoreng"
+  },
+  {
+    "nama": "rawon",
+    "harga": "35Ribu",
+    "imageId": "rawon"
+  },
+  {
+    "nama": "rendang",
+    "harga": "65Ribu",
+    "imageId": "rendang"
+  },
+  {
+    "nama": "sate",
+    "harga": "24Ribu",
+    "imageId": "sate"
+  },
+  {
+    "nama": "seblak",
+    "harga": "15Ribu",
+    "imageId": "seblak"
+  },
+  {
+    "nama": "soto ayam",
+    "harga": "18Ribu",
+    "imageId": "soto ayam"
+  },
+  {
+    "nama": "tahu gejrot",
+    "harga": "10Ribu",
+    "imageId": "tahugejrot"
+  }
+]
